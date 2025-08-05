@@ -17,7 +17,7 @@ dependencies: [
 ### [Function](https://ezgif.com/video-to-webp)
 |函式|功能|
 |-|-|
-|configure(mapping:convertRegex:highlightRegex:)|初始設定|
+|configure(mapping:highlightColor:convertRegex:highlightRegex:)|初始設定|
 
 ### [WWEmojiTextField.Delegate](https://ezgif.com/video-to-webp)
 |函式|功能|
