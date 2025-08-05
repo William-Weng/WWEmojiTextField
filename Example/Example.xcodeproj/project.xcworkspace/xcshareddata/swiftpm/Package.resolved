@@ -6,8 +6,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/William-Weng/WWEmojiTextField",
       "state" : {
-        "revision" : "225a9e8d918541d19f309bf5737507ba51aaffa0",
-        "version" : "1.0.0"
+        "revision" : "74e37155f5fb09ea73674109b3854de5a8fa249a",
+        "version" : "1.0.1"
       }
     }
   ],

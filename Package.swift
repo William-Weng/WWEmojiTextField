@@ -12,7 +12,7 @@ let package = Package(
         .library(name: "WWEmojiTextField", targets: ["WWEmojiTextField"]),
     ],
     targets: [
-        .target(name: "WWEmojiTextField"),
+        .target(name: "WWEmojiTextField", resources: [.copy("Privacy")]),
     ],
     swiftLanguageVersions: [
         .v5
