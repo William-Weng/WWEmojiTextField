@@ -1,0 +1,15 @@
+{
+  "originHash" : "08842fc6a13205144f8e23705492ea184135e0782fea33d845ad4642c94d550f",
+  "pins" : [
+    {
+      "identity" : "wwemojitextfield",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/William-Weng/WWEmojiTextField",
+      "state" : {
+        "revision" : "225a9e8d918541d19f309bf5737507ba51aaffa0",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
